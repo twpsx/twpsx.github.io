@@ -12,8 +12,8 @@ title = "Two-Six"
   profile = "profile.org"
 
   ps1Delay = 0
-  stdoutDelay = 0
-  commandDelay = 50
+  stdoutDelay = 5
+  commandDelay = 40
 
   # Note: speed at which text is displayed on the activity pages
   # Note: if set to 0, typing animation will be disabled
