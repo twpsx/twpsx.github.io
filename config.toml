@@ -12,8 +12,8 @@ title = "Two-Six"
   profile = "profile.org"
 
   ps1Delay = 0
-  stdoutDelay = 5
-  commandDelay = 40
+  stdoutDelay = 0
+  commandDelay = 50
 
   # Note: speed at which text is displayed on the activity pages
   # Note: if set to 0, typing animation will be disabled
@@ -34,5 +34,5 @@ title = "Two-Six"
   folderName = "Personal\\ Pages"
   files = [
     ["Github", "https://github.com/two-six"],
-    ["Twitter", "https://twitter.com/twosix22906037"]
+    ["Twitter", "https://twitter.com/two_six_26"]
   ]
