@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/twopsix
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://twosix.software
+  * I am twopsix (https://keybase.io/twopsix) on keybase.
+  * I have a public key with fingerprint 302E 98FA A89B 000A 6A1E  FDAC 3396 CCD4 5387 02AD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ea4cd51d56d9a8c6b1c366992c8b6f63526652224ec69094c1e6a2ca1375824e0a",
+      "fingerprint": "302e98faa89b000a6a1efdac3396ccd4538702ad",
+      "host": "keybase.io",
+      "key_id": "3396ccd4538702ad",
+      "kid": "0101ea4cd51d56d9a8c6b1c366992c8b6f63526652224ec69094c1e6a2ca1375824e0a",
+      "uid": "ba4474fb94b01c501dc180471b676c19",
+      "username": "twopsix"
+    },
+    "service": {
+      "hostname": "twosix.software",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1645038620,
+  "expire_in": 157680000,
+  "prev": "717147cf3ac80a8891e9700c4a9ba9e53306b15019eab186e01b6da4eec7ead9",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJdSBVBGL3XbonGzf6ziJClByG1mf2Z3b2lIUEkRD9QUihcZ2dnddPu
+bnfXq2bSQyXpS2JZBtEfUWAQWqIZCGXFxYJ8qLTSDKMywiApojKzWSl66bGnYb7v
+nDPnHOZucIYv2Q/a8roqncEu/4Pbp8p9WnDT8mpOs/QqLlTNldLpg5bp1HHDpabO
+hTgAAaRYJLoEdQnpKlYI0iAREFJVnigaMpAg8QhJPM+LlCAVqCKBFGGeYCjIksKm
+AHMZnGFGimnUjpoRl8kKgKeqYmCsqBoAACMMqaFjIggqIkQXJUGRAY91RiyxHI/B
+zGnYoVmmxWbsEp629w/8f/ZdPi2nYVGURUNTRQ1AIgGoE6gAUYYakhGBqgd0aDSC
+91CGdiss2zEruZoMjg1jJqFer16QvwC2z3Isw63AUcrYdtRyLWKVsWWJ69pOyCO7
+VbaHrqBa+LdOWDMjOmuSMWI06phWhAtBhiSu6QlDJEpAUBAPMjhaaZtRGjY9hCQj
+hdUMvHdojEnKUIaiTAwBEwVgRVEhVWUAiIhVDatUEgTA6mI5VYo1qCAKWFIdi5QS
+mWLdy+vQvRGLC4nMJi5mko5ZHMFuOUtT03OrMODzJ/tmzUzwfpgvOWnun3+3bSBx
+asvVJbET3ZMdG04vatmXnXTpjnIxc6gob3c8M9D91arp9S99vDuem/YJCwtWDw+1
+n1r8+m3K7FWbW0vT29M2xUYS2ooCCfvr+2Cn6M+Jf7QP9J8dCTdfP3zt/st1EUma
+dXDnrjwjOPHleGv1m5SJ7IeLm7igXdvbOFZ2b0XH+ScvWpLH/bXBNVMt6c99jxri
+7cu+5da4JwrMH/H0hgOpOUtvdpRuzx+uP5b0dGHiyezA2k7O7t56YeNoQd2c3P4P
+TRUd7c1jbvQGfyR7si50LlDY/P7gzx2Dr7d19cw/c74nZqRVl4z6XxxqjMdT+1Lm
+ff5+VMnPWTlQ9mzrq8vj699lfr7yCzYrQOA=
+=RRqh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/twopsix
+
+==================================================================
