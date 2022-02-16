@@ -1,0 +1,68 @@
+@font-face {
+    font-family: CyberPunkWaifus;
+    src: url(assets/CyberpunkWaifus.ttf);
+}
+
+@font-face {
+    font-family: TEACPSS;
+    src: url(assets/TEACPSS_.TTF);
+}
+
+@font-face {
+    font-family: IBMPlexMono;
+    src: url(assets/IBM\ Plex\ Mono/IBMPlexMono-Text.ttf);
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #e7e7e7;
+        color: black;
+    }
+    #title {
+        text-shadow: 3px 3px #999;
+        color: black;
+    }
+    .category-title {
+        color: #383838;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #181818;
+        color: white;
+    }
+    #title {
+        text-shadow: 3px 3px #999;
+        color: white;
+    }
+    .category-title {
+        color: #008f11;
+    }
+    a {
+        color: #7F8C8D;
+    }
+}
+
+body {
+    font-family: IBMPlexMono;
+}
+
+#title {
+    text-align: center;
+    font-size: 40px;
+    font-family: CyberPunkWaifus;
+}
+
+.category-title {
+    font-family: TEACPSS;
+    font-size: 20px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 99%;
+  height: 2.5rem;
+  font-size: 14px;
+}
