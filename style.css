@@ -23,7 +23,7 @@
         color: black;
     }
     .category-title {
-        color: #383838;
+        color: #008f11;
     }
 }
 
@@ -38,9 +38,6 @@
     }
     .category-title {
         color: #008f11;
-    }
-    a {
-        color: #7F8C8D;
     }
 }
 
@@ -69,4 +66,8 @@ footer {
   height: 2.5rem;
   font-size: 16px;
   text-align: center;
+}
+
+a {
+    color: #2980B9;
 }
