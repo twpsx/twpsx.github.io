@@ -9,8 +9,8 @@
 }
 
 @font-face {
-    font-family: IBMPlexMono;
-    src: url(assets/IBM\ Plex\ Mono/IBMPlexMono-Text.ttf);
+    font-family: EnterCommand;
+    src: url(assets/enter_command/EnterCommand.ttf);
 }
 
 @media (prefers-color-scheme: light) {
@@ -45,7 +45,10 @@
 }
 
 body {
-    font-family: IBMPlexMono;
+    font-family: EnterCommand;
+    font-size: 26px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 #title {
@@ -62,7 +65,7 @@ body {
 footer {
   position: absolute;
   bottom: 0;
-  width: 99%;
+  width: 80%;
   height: 2.5rem;
   font-size: 14px;
   text-align: center;
