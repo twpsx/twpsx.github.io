@@ -79,3 +79,7 @@ a {
 main {
     padding-bottom: 2.5rem;    /* Footer height */
 }
+
+li::marker {
+    content: "> ";
+};
