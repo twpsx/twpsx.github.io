@@ -20,6 +20,7 @@
     }
     #title {
         color: black;
+        text-shadow: 3px 3px #999;
     }
     .category-title {
         color: #008f11;
@@ -33,14 +34,11 @@
     }
     #title {
         color: white;
+        text-shadow: 3px 3px #777;
     }
     .category-title {
         color: #008f11;
     }
-}
-
-#title {
-    text-shadow: 3px 3px #999;
 }
 
 body {
