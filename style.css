@@ -1,85 +1,109 @@
 @font-face {
-    font-family: CyberPunkWaifus;
-    src: url(assets/CyberpunkWaifus.ttf);
+  font-family: CyberPunkWaifus;
+  src: url(assets/CyberpunkWaifus.ttf);
 }
-
 @font-face {
-    font-family: TEACPSS;
-    src: url(assets/TEACPSS_.TTF);
+  font-family: TEACPSS;
+  src: url(assets/TEACPSS_.TTF);
 }
-
 @font-face {
-    font-family: EnterCommand;
-    src: url(assets/enter_command/EnterCommand.ttf);
+  font-family: EnterCommand;
+  src: url(assets/enter_command/EnterCommand.ttf);
 }
-
 @media (prefers-color-scheme: light) {
-    body {
-        background-color: #e7e7e7;
-        color: black;
-    }
-    #title {
-        color: black;
-        text-shadow: 3px 3px #999;
-    }
-    .category-title {
-        color: #008f11;
-    }
-}
+  body {
+    background-color: #e7e7e7;
+    color: black;
+  }
 
+  #title {
+    color: black;
+    text-shadow: 3px 3px #999;
+  }
+
+  .category-title {
+    color: #008f11;
+  }
+
+  .subcategory-title {
+    color: #008f11;
+  }
+}
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: #181818;
-        color: white;
-    }
-    #title {
-        color: white;
-        text-shadow: 3px 3px #555;
-    }
-    .category-title {
-        color: #008f11;
-    }
-}
+  body {
+    background-color: #181818;
+    color: white;
+  }
 
+  #title {
+    color: white;
+    text-shadow: 3px 3px #555;
+  }
+
+  .category-title {
+    color: #008f11;
+  }
+
+  .subcategory-title {
+    color: #008f11;
+  }
+}
 body {
-    font-family: EnterCommand;
-    font-size: 26px;
-    margin-left: 10%;
-    margin-right: 10%;
-    position: relative;
-    min-height: 90vh;
+  font-family: EnterCommand;
+  font-size: 26px;
+  margin-left: 10%;
+  margin-right: 10%;
+  position: relative;
+  min-height: 90vh;
 }
 
 #title {
-    text-align: center;
-    font-size: 40px;
-    font-family: CyberPunkWaifus;
+  text-align: center;
+  font-size: 40px;
+  font-family: CyberPunkWaifus;
 }
 
 .category-title {
-    font-family: TEACPSS;
-    font-size: 20px;
+  font-family: TEACPSS;
+  font-size: 20px;
+}
+
+.subcategory-title {
+  font-family: TEACPSS;
+  font-size: 16px;
 }
 
 footer {
-    margin-left: 10%;
-    margin-right: 10%;
-    position: absolute;
-    bottom: 0;
-    width: 80%;
-    height: 2.5rem;
-    font-size: 16px;
-    text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  position: absolute;
+  bottom: 0;
+  width: 80%;
+  height: 2.5rem;
+  font-size: 16px;
+  text-align: center;
 }
 
 a {
-    color: #2980B9;
+  color: #2980B9;
 }
 
 main {
-    padding-bottom: 2.5rem;    /* Footer height */
+  padding-bottom: 2.5rem;
+  /* Footer height */
 }
 
-li::marker {
-    content: "> ";
+ul li::marker {
+  content: "> ";
 }
+
+.cards-wrapper {
+  display: grid;
+  grid-template-columns: 5fr 1fr 5fr 1fr 5fr;
+}
+.cards-wrapper div {
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=style.css.map */

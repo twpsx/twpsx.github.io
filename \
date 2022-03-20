@@ -13,7 +13,7 @@
     <main>
       <h2 class="category-title">:about-me</h2>
       <p>
-        I'm Maciej "Two-Six", a cypherpunk, audiophile and programmer. I'm currently an IT student and have experience in many popular programming languages although I prefer purely-functional ones. I also have experience with Docker and GNU/Linux System Administration.
+        I'm Maciej "Two-Six", a cypherpunk, audiophile and programmer. I'm currently an IT student and have experience in many popular programming languages although I prefer purely-functional ones. I also have experience in GNU/Linux System Administration.
       </p>
       <h2 class="category-title">:Favorite Technology</h2>
       <div class="cards-wrapper">
@@ -31,10 +31,10 @@
             </li>
             <li>
               <a target="_blank" rel="noopener noreferrer" href="https://www.clementine-player.org/">Clementine</a> - Extensible Qt Music Player
-
+              
             </li>
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="https://deno.land/">Deno</a> - A modern runtime for TypeScript & Javascript
+              <a target="_blank" rel="noopener noreferrer" href="https://deno.land/">Deno</a> - A modern runtime for TypeScript
             </li>
           </ul>
         </div>
